@@ -1,29 +1,29 @@
 completed youtube video:
-https://www.youtube.com/watch?v=eR0MzSs9O1w&ab_channel=FOSSASIA
-https://youtu.be/Y6Ev8GIlbxc
-https://youtu.be/K0Ta65OqQkY
-https://youtu.be/G14WMD8Kg3U
-https://youtu.be/gwWKnnCMQ5c
-https://www.youtube.com/playlist?list=PLB4tvLCynFjR1C5Okvtc5kb8RICXJqhf4
+https://www.youtube.com/playlist?list=PLHFNTKzfZ2d-_7rxgMRCxtvnbWdfqdraL
+https://youtu.be/tNa99PG8hR8
+https://youtu.be/eKD5gxPPeY0
+https://youtu.be/09mb78oiPkA
+https://youtu.be/O86O3kkCAPE
 
-completed book:
-https://etheses.whiterose.ac.uk/4395/1/uk_bl_ethos_305426.pdf (important chapter)
+
+
 
 did project:
-Task 4 research paper - Comparative Study of Load Balancing Techniques in Distributed System
-https://github.com/cva67/CSE707/tree/main/Submission4
+Task 4 :-  Transfer Learning Method to Determine the Freshness of Fruits and Vegetables from Image Dataset
+Task 5 :- A survey on age estimation using facial images
 
 
-extra task
-Website development 
-https://test.negos.org/ (Testing phase both backend and frontend)
+extra task:-
+Datacamp task
+
+
 Completed udemy course using email
 shivapathak67@gmail.com
 https://www.udemy.com/join/login-popup/?next=/course/vuejs-fast-crash-course/learn/
 
 was active in slack:
-https://bucse707fall2021.slack.com/archives/C02GKB2GHSQ/p1633927587006000
-https://bucse707fall2021.slack.com/archives/C02GVPCCUFK/p1636113494020900?thread_ts=1635515691.018400&cid=C02GVPCCUFK
+https://bucse713summer2022.slack.com/archives/C03HANFSA2J/p1662189688821309
+https://bucse713summer2022.slack.com/archives/C03HANFSA2J/p1662312073298679?thread_ts=1662310401.415429&cid=C03HANFSA2J
 
 Submitter:
-21166052 Shiva Bahadur Pathak
+22173009 Shiva Bahadur Pathak
