@@ -1,6 +1,7 @@
 Completed datacamp course using email
 shiva.bahadur.pathak@g.bracu.ac.bd
 https://app.datacamp.com/learn/courses/understanding-data-science
+https://practice.datacamp.com/
 
 completed youtube video:
 https://www.youtube.com/playlist?list=PLHFNTKzfZ2d-_7rxgMRCxtvnbWdfqdraL
