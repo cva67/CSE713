@@ -1,3 +1,7 @@
+Completed datacamp course using email
+shiva.bahadur.pathak@g.bracu.ac.bd
+https://app.datacamp.com/learn/courses/understanding-data-science
+
 completed youtube video:
 https://www.youtube.com/playlist?list=PLHFNTKzfZ2d-_7rxgMRCxtvnbWdfqdraL
 https://youtu.be/tNa99PG8hR8
@@ -6,16 +10,12 @@ https://youtu.be/09mb78oiPkA
 https://youtu.be/O86O3kkCAPE
 
 
-
-
 did project:
 Task 4 :-  Transfer Learning Method to Determine the Freshness of Fruits and Vegetables from Image Dataset
 Task 5 :- A survey on age estimation using facial images
 
 
 extra task:-
-Datacamp task
-
 
 Completed udemy course using email
 shivapathak67@gmail.com
